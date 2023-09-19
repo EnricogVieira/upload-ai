@@ -22,7 +22,7 @@ import { useCompletion } from 'ai/react'
     completion,
     isLoading,
   } = useCompletion({
-    api: 'upload-qnwol84bj-enricogvieira.vercel.app',
+    api: 'http://localhost:3333/ai/complete',
     body: {
       videoId,
       temperature,
