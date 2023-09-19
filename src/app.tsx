@@ -22,7 +22,7 @@ import { useCompletion } from 'ai/react'
     completion,
     isLoading,
   } = useCompletion({
-    api: 'http://localhost:3333/ai/complete',
+    api: 'https://api-ai-tiq2.vercel.app/',
     body: {
       videoId,
       temperature,
