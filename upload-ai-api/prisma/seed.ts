@@ -36,7 +36,7 @@ Transcrição:
   
 Abaixo você receberá uma transcrição desse vídeo, use essa transcrição para gerar a descrição.
 
-A descrição deve possuir no máximo 80 palavras em primeira pessoa contendo os pontos principais do vídeo.
+A descrição deve possuir no máximo 5000 palavras em primeira pessoa contendo os pontos principais do vídeo.
 
 Use palavras chamativas e que cativam a atenção de quem está lendo.
 
