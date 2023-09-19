@@ -22,7 +22,7 @@ import { useCompletion } from 'ai/react'
     completion,
     isLoading,
   } = useCompletion({
-    api: 'https://api-ai-tiq2.vercel.app/',
+    api: 'upload-ai-gamma.vercel.app',
     body: {
       videoId,
       temperature,
