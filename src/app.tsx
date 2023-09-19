@@ -22,7 +22,7 @@ import { useCompletion } from 'ai/react'
     completion,
     isLoading,
   } = useCompletion({
-    api: 'http://localhost:3333/ai/complete',
+    api: 'https://upload-ai-gamma.vercel.app/',
     body: {
       videoId,
       temperature,
